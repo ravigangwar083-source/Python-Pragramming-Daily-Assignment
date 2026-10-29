@@ -23,9 +23,11 @@ The following are Git branches, rather than folders inside the main branch.
 | `main` | Repository overview and topic index |
 | `Conditional-Statement` | Decision-making using `if`, `elif`, and `else` |
 | `Dictionary` | Key-value pairs, dictionary methods, and examples |
+| `Functions` | Function definitions, parameters, arguments, return values, and lambda functions |
 | `List` | List creation, indexing, slicing, and methods |
 | `List-Comprehension` | Creating lists using expressions, iteration, and conditions |
 | `Loops` | Iteration using `for` and `while` loops |
+| `OOPs` | Classes, objects, constructors, inheritance, encapsulation, polymorphism, and abstraction |
 | `Operators` | Arithmetic, comparison, logical, and other Python operators |
 | `Patterns` | Pattern-printing exercises using loops |
 | `Set-Data-Type` | Sets, set methods, and set operations |
